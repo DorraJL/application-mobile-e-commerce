@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "175840868965",
+    "project_id": "tech4iot",
+    "storage_bucket": "tech4iot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175840868965:android:b58fd6c63e17bc5234e48c",
+        "android_client_info": {
+          "package_name": "com.example.e_commers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175840868965-n25vd5tr8n3m4mhjo5mfrlqvmm4vh69f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT28ytXcNwvOE9vsEVP6lXyT4c7sHxSc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175840868965-n25vd5tr8n3m4mhjo5mfrlqvmm4vh69f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
